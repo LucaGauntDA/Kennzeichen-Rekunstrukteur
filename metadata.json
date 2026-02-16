@@ -1,0 +1,5 @@
+{
+  "name": "KFZ-Kennzeichen Deterministic Visualizer",
+  "description": "Ein rein technisches Werkzeug zur deterministischen Visualisierung von Kfz-Kennzeichen auf Basis expliziter Parameter.",
+  "requestFramePermissions": []
+}
